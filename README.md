@@ -26,6 +26,12 @@ This project is a responsive landing page for a jazz school. It follows the mobi
 4. Subscribe to the newsletter by entering your email address in the provided form.
 5. Enjoy the visually appealing design and informative content of the landing page.
 
+## Project Screenshots
+![LP-Jazz-School (1)](https://github.com/marco-almeida701/LP-Jazz-School/assets/126623187/7790b44e-9f7b-429d-a237-f58471796191)
+![LP-Jazz-School (2)](https://github.com/marco-almeida701/LP-Jazz-School/assets/126623187/738fbb45-1dbf-4cc0-90a2-9db7a6beb289)
+
+
+
 ## Final Thoughts
 
 This project showcases the use of responsive design techniques to create a visually appealing and user-friendly landing page for a jazz school. It combines modern design principles with practical functionality to deliver an engaging browsing experience. Feel free to explore the source code and customize it to suit your needs. Enjoy the Jazz School landing page and promote your jazz education services effectively!
