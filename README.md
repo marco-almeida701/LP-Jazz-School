@@ -16,7 +16,7 @@ This project is a responsive landing page for a jazz school. It follows the mobi
 
 - **HTML5:** Used for creating the structure and content of the landing page.
 - **CSS3:** Used for styling and layout, including responsive design.
-- **Google Fonts:** Utilized the "Roboto" font from Google Fonts for a modern and clean typography.
+- **Google Fonts:** Utilized the **"Roboto"** font from Google Fonts for a modern and clean typography.
 
 ## How to Use
 
