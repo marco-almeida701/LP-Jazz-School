@@ -22,7 +22,7 @@ This project is a responsive landing page for a jazz school. It follows the mobi
 
 1. Open the HTML file in a web browser.
 2. Navigate through the different sections using the provided navigation menu.
-3. Explore the course offerings in the "Courses" section.
+3. Explore the course offerings in the **"Courses"** section.
 4. Subscribe to the newsletter by entering your email address in the provided form.
 5. Enjoy the visually appealing design and informative content of the landing page.
 
